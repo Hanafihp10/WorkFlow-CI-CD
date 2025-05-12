@@ -1,0 +1,1 @@
+print("guntur anak komtol")
