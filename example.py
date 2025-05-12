@@ -1,1 +1,0 @@
-print("guntur anak komtol")
